@@ -1,0 +1,22 @@
+﻿  imageIO.cpp
+  basicPipelineProgram.cpp
+  openGLMatrix.cpp
+  pipelineProgram.cpp
+  hw1.cpp
+d:\usc\computer graphics\a2\assign2_coreopengl_joe_8800444224\hw2\hw1.cpp(408): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\usc\computer graphics\a2\assign2_coreopengl_joe_8800444224\hw2\hw1.cpp(408): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\usc\computer graphics\a2\assign2_coreopengl_joe_8800444224\hw2\hw1.cpp(627): warning C4018: '<': signed/unsigned mismatch
+d:\usc\computer graphics\a2\assign2_coreopengl_joe_8800444224\hw2\hw1.cpp(645): warning C4018: '<': signed/unsigned mismatch
+d:\usc\computer graphics\a2\assign2_coreopengl_joe_8800444224\hw2\hw1.cpp(718): warning C4018: '<': signed/unsigned mismatch
+d:\usc\computer graphics\a2\assign2_coreopengl_joe_8800444224\hw2\hw1.cpp(1170): warning C4018: '<': signed/unsigned mismatch
+d:\usc\computer graphics\a2\assign2_coreopengl_joe_8800444224\hw2\hw1.cpp(1174): warning C4018: '<': signed/unsigned mismatch
+d:\usc\computer graphics\a2\assign2_coreopengl_joe_8800444224\hw2\hw1.cpp(1197): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\usc\computer graphics\a2\assign2_coreopengl_joe_8800444224\hw2\hw1.cpp(1197): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\usc\computer graphics\a2\assign2_coreopengl_joe_8800444224\hw2\hw1.cpp(1323): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  hw1.vcxproj -> D:\USC\Computer Graphics\A2\assign2_coreOpenGL_Joe_8800444224\hw2\\Bin\Debug\hw1.exe
